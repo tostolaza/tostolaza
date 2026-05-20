@@ -4,9 +4,10 @@
 
 Pamplona, España
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmo-ostolaza-astiz-2a609718b/)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/TelmOstolaza)
-[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=flat-square&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmo-ostolaza-astiz-2a609718b/)
+[![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/tostolazaas)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/TelmOstolaza)
+[![Hack The Box](https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)](https://www.hackthebox.com/)
 
 ---
 
@@ -21,7 +22,7 @@ Cuando no estoy rompiendo cosas, las construyo: programación a bajo nivel en C,
 ### En qué trabajo actualmente
 
 - Pruebas de penetración y evaluaciones de seguridad
-- Bug bounty en programas de HackerOne
+- Bug bounty en programas de [HackerOne](https://hackerone.com/tostolazaas)
 - Automatización de pentesting con [Claude Code](https://github.com/tostolaza/Claude-pentesting-config)
 - Desarrollo de exploits y seguridad a bajo nivel
 
@@ -40,24 +41,30 @@ Cuando no estoy rompiendo cosas, las construyo: programación a bajo nivel en C,
 
 ### Herramientas y tecnologías
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Seguridad ofensiva**
+
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nuclei](https://img.shields.io/badge/Nuclei-7D64FF?style=for-the-badge&logo=data:image/svg+xml;base64,&logoColor=white)
+
+**Lenguajes y entornos**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
 ### GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tostolaza&show_icons=true&theme=github_dark&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tostolaza&show_icons=true&theme=github_dark&hide_border=true&count_private=true)](https://github.com/tostolaza)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tostolaza&layout=compact&theme=github_dark&hide_border=true)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tostolaza&layout=compact&theme=github_dark&hide_border=true)](https://github.com/tostolaza?tab=repositories)
 
 ---
 
