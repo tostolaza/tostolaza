@@ -2,7 +2,7 @@
 
 **Analista de Ciberseguridad · Pentester · Desarrollador**
 
-Pamplona, España
+Iruña, Nafarroa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/telmo-ostolaza-astiz-2a609718b/)
 [![HackerOne](https://img.shields.io/badge/HackerOne-494649?style=for-the-badge&logo=hackerone&logoColor=white)](https://hackerone.com/tostolazaas)
