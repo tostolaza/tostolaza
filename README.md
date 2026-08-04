@@ -1,6 +1,4 @@
-<div align="center">
 
-# 👋 Hola, soy Telmo Ostolaza
 
 ### 🛡️ Cybersecurity Engineer · Pentester · Developer
 
