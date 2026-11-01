@@ -4,7 +4,7 @@
 
 **Ciberseguridad · Pentesting · Linux · Sistemas embebidos**
 
-Pamplona, España · [LinkedIn](https://www.linkedin.com/in/telmo-ostolaza-astiz-2a609718b/) · [HackerOne](https://hackerone.com/tostolazaas) · [tostolazaas@protonmail.com](mailto:tostolazaas@protonmail.com)
+Pamplona, España · [LinkedIn](https://www.linkedin.com/in/telmo-ostolaza-astiz-2a609718b/) · [HackerOne](https://hackerone.com/tostolazaas) · [Mail](mailto:tostolazaas@protonmail.com) · [Hack The Box](https://app.hackthebox.com/users/17627)
 
 ---
 
