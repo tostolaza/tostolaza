@@ -1,144 +1,51 @@
 
 
-### 🛡️ Cybersecurity Engineer · Pentester · Developer
+# Telmo Ostolaza
 
-Especializado en **seguridad ofensiva**, sistemas Linux, automatización,
-programación de bajo nivel y dispositivos embebidos.
+**Ciberseguridad · Pentesting · Linux · Sistemas embebidos**
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Telmo_Ostolaza-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/telmo-ostolaza-astiz-2a609718b/)
-[![Telegram](https://img.shields.io/badge/Telegram-@TelmOstolaza-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/TelmOstolaza)
-[![Email](https://img.shields.io/badge/Email-ProtonMail-6D4AFF?style=flat-square\&logo=protonmail\&logoColor=white)](mailto:tostolazaas@protonmail.com)
-
-</div>
+Pamplona, España · [LinkedIn](https://www.linkedin.com/in/telmo-ostolaza-astiz-2a609718b/) · [HackerOne](https://hackerone.com/tostolazaas) · [tostolazaas@protonmail.com](mailto:tostolazaas@protonmail.com)
 
 ---
 
-## 🧑‍💻 Sobre mí
+## Who am I
 
-Soy profesional de la ciberseguridad con experiencia en **pentesting, administración de sistemas, desarrollo y seguridad de infraestructuras**.
+Soy un profesional de la ciberseguridad. Me dedico a la seguridad de infraestructuras, pentesting y bug bounty.
 
-Me interesa comprender cómo funcionan los sistemas internamente, encontrar sus puntos débiles y desarrollar herramientas prácticas para analizarlos, automatizarlos y protegerlos.
+Me interesa entender cómo funcionan los sistemas por dentro: la memoria, el hardware, la red. Busco sus puntos débiles y construyo herramientas para analizarlos y protegerlos. Trabajo en Linux desde la terminal y prefiero las soluciones simples y automatizables.
 
-Actualmente trabajo y desarrollo proyectos relacionados con:
+En este GitHub publico lo que voy construyendo y aprendiendo.
 
-* 🔐 Pentesting y seguridad ofensiva
-* 🐧 Linux, redes y hardening
-* ⚙️ Automatización con Bash, Python y Go
-* 💻 Programación en C y análisis de bajo nivel
-* 📡 Comunicaciones LoRa, Reticulum e I2P
-* 💳 Seguridad NFC y dispositivos ESP32
-* 📊 Monitorización y seguridad defensiva
+## Proyectos
 
----
+### [Reticulum-Node-RaspberryPi](https://github.com/tostolaza/Reticulum-Node-RaspberryPi)
+Instalador interactivo en Bash que convierte una Raspberry Pi en un nodo de tránsito de Reticulum. Integra radio LoRa (RNode), pasarela I2P, mensajería NomadNet y publicación en RMAP. Todo queda gestionado con servicios systemd y listo para funcionar de forma permanente.
 
-## 🛠️ Tecnologías
+`Bash` `systemd` `LoRa` `I2P`
 
-<div align="center">
+### [NFC_esp32s3](https://github.com/tostolaza/NFC_esp32s3)
+Herramienta de análisis NFC basada en ESP32-S3 y PN532. Identifica etiquetas NTAG 213/215/216, MIFARE Classic y Ultralight. En MIFARE Classic analiza claves A/B, sectores, bloques y bits de acceso.
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square\&logo=kalilinux\&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square\&logo=archlinux\&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square\&logo=c\&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square\&logo=go\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square\&logo=gnubash\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square\&logo=raspberrypi\&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square\&logo=espressif\&logoColor=white)
+`C++` `ESP32` `NFC/RFID`
 
-</div>
+### [Claude-pentesting-config](https://github.com/tostolaza/Claude-pentesting-config)
+Configuración de Claude Code para pentesting asistido por IA en máquinas de HTB y programas de bug bounty. Cubre validación de alcance, gestión de evidencias, plantillas de informe y automatización de tareas repetitivas.
 
----
+`Shell` `Pentesting` `IA`
 
-## 🚀 Proyectos destacados
+### [Hacking-The-Art-Of-Exploitation](https://github.com/tostolaza/Hacking-The-Art-Of-Exploitation)
+Apuntes y ejercicios en castellano del libro *Hacking: The Art of Exploitation* de Jon Erickson. Trata programación en C, gestión de memoria, ensamblador, depuración y explotación de binarios.
 
-### 📡 Reticulum Node for Raspberry Pi
+`C` `Explotación` `Bajo nivel`
 
-Instalador para desplegar un nodo permanente de Reticulum sobre Raspberry Pi, con soporte para:
+### [C-programs](https://github.com/tostolaza/C-programs)
+Colección de programas en C para aprender y practicar el lenguaje, desde los fundamentos hasta punteros y gestión de memoria.
 
-* RNode y LoRa
-* Transporte mediante I2P
-* NomadNet
-* Publicación en RMAP
-* Servicios systemd
-
-[Ver repositorio →](https://github.com/tostolaza/Reticulum-Node-RaspberryPi)
+`C`
 
 ---
 
-### 💳 ESP32-S3 NFC Toolkit
-
-Herramienta de investigación NFC desarrollada con ESP32-S3 y PN532.
-
-Incluye detección y análisis de:
-
-* NTAG 213, 215 y 216
-* MIFARE Classic
-* Claves A y B
-* Bloques y sectores
-* Bits de acceso
-
-[Ver repositorio →](https://github.com/tostolaza/NFC_esp32s3)
-
----
-
-### 🤖 Claude Pentesting Config
-
-Configuración y herramientas para organizar flujos de pentesting asistidos por IA.
-
-Incluye:
-
-* Validación de alcance
-* Gestión de evidencias
-* Plantillas de informes
-* Automatización de tareas
-* Entornos para HTB y bug bounty
-
-[Ver repositorio →](https://github.com/tostolaza/Claude-pentesting-config)
-
----
-
-### 🧠 Hacking: The Art of Exploitation
-
-Apuntes, ejercicios y laboratorios sobre programación en C, memoria, ensamblador, depuración y explotación de binarios.
-
-[Ver repositorio →](https://github.com/tostolaza/Hacking-The-Art-Of-Explotation)
-
----
-
-## 🎓 Certificaciones
-
-* **OSCP — Offensive Security Certified Professional**
-
----
-
-## 🎯 Áreas de interés
-
-```text
-Offensive Security  ·  Linux Security  ·  Vulnerability Research
-Binary Exploitation ·  Embedded Security  ·  NFC / RFID
-LoRa Communications ·  Reticulum Networks ·  Security Automation
-```
-
----
-
-## 🤝 Contacto
-
-Estoy interesado en proyectos relacionados con ciberseguridad, Linux, sistemas embebidos, comunicaciones descentralizadas y herramientas de código abierto.
-
-* 📧 [tostolazaas@protonmail.com](mailto:tostolazaas@protonmail.com)
-* 💼 [LinkedIn](https://www.linkedin.com/in/telmo-ostolaza-astiz-2a609718b/)
-* ✈️ [Telegram](https://t.me/TelmOstolaza)
-
----
-
-<div align="center">
-
-### 🔐 Understand systems. Find weaknesses. Build them better.
-
-![Profile views](https://komarev.com/ghpvc/?username=tostolaza\&style=flat-square\&color=6D4AFF)
+<sub>Entender cómo funcionan los sistemas, encontrar sus puntos débiles y construirlos mejor.</sub>
 
 </div>
 
